@@ -2,6 +2,7 @@ package ½á¶Ô±à³Ì;
 
 import java.util.ArrayList;
 
+change 1
 public class dijkstra {
 	private int[][] distance;
     private int start;
