@@ -92,3 +92,4 @@ public class my_frame extends JPanel{
 	}
 
 }
+//chenge6
