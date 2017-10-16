@@ -1,5 +1,5 @@
 package ½á¶Ô±à³Ì;
-
+// change
 public class node {
     private String word;
     public node(String word){

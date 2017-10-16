@@ -1,5 +1,5 @@
 package ½á¶Ô±à³Ì;
-
+// change
 public class posi {
     private int x;
     private int y;
